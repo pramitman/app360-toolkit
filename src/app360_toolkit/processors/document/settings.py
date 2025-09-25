@@ -26,7 +26,7 @@ COMPONENTS = {
         'class': 'CNPJ', 
         'file': 'cnpj',
         'description': 'Brazilian CNPJ document processor',
-        'enabled': False,
+        'enabled': True,
     },
     'RG': {
         'class': 'RG',

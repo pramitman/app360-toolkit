@@ -22,17 +22,17 @@ class CPF(DocumentFactory):
             self._error(f'CPF deve ter 11 digitos. Encontrados: {len(doc_number)}')
         
         # repeated numbers
-        if len(set(doc_number)) == 1:
+        if doc_number == doc_number[0]*11:
             self._error('CPF inválido: todos os dígitos são iguais')
 
         # check digit
         first_digit = self._calculate_digit(doc_number, 9)
         if first_digit != int(doc_number[9]):
-            self._error('CPF inválido: primeiro dígito verificador incorreto')
+            self._error('CPF inválido: dígito verificador incorreto')
 
         second_digit = self._calculate_digit(doc_number, 10)
         if second_digit != int(doc_number[10]):
-            self._error('CPF inválido: segundo dígito verificador incorreto')
+            self._error('CPF inválido: dígito verificador incorreto')
         
         return True
     
